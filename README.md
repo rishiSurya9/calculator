@@ -1,4 +1,4 @@
 # calculator
 <br>
 
-author:-Rishi
+Author:-Rishi

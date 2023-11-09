@@ -1,4 +1,4 @@
 # calculator
 <br>
 
-Author:-Rishi
+Author:-Rishi (student)
